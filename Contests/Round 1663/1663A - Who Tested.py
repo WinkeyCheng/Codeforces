@@ -1,1 +1,1 @@
-redpanda
+print("redpanda")
